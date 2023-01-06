@@ -18,4 +18,8 @@ Using the slicing concept rotate the list
 
 ## Output:
 
+
+
+![variable output](https://user-images.githubusercontent.com/121418522/210926464-bf874ea2-bd2b-448e-a29a-c6080bc97ac9.png)
+
 ## Result:
