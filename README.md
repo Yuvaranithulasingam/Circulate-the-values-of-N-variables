@@ -15,7 +15,7 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-
+```
 a=eval(input())
 b=int(input())
 def circulate():
@@ -23,7 +23,7 @@ def circulate():
         c=a[n:]+a[:n]
     return c
 print("After circulating the values are:",circulate())    
-
+```
 
 
 
