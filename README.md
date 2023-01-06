@@ -25,7 +25,7 @@ print("After circulating the values are:",circulate())
 ```
 
 ## Output:
-![solution](circulate.png)
+![circulate](circulate.png)
 
 ## Result:
 Thus the program is developed for circulate the n variables.
