@@ -13,7 +13,7 @@ Get the value from the user for the number of rotation
 
 ## Step 3:
 Using the slicing concept rotate the list
-## Program:
+## Program    
 ```
 a=eval(input())
 b=int(input())
@@ -25,7 +25,8 @@ print("After circulating the values are:",circulate())
 ```
 
 ## Output:
-![circulate](circulate.png)
+
+![circulate](https://user-images.githubusercontent.com/121418522/211180568-4241359c-4604-4e46-971c-b3a20a3a1d80.png)
 
 ## Result:
 Thus the program is developed for circulate the n variables.
