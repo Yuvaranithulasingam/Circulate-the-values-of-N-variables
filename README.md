@@ -20,9 +20,9 @@ Circulate-the-values-of-N-variables
 a=eval(input())
 b=int(input())
 def circulate():
-    for n in range(b+1):
-        c=a[n:]+a[:n]
-    return c
+for n in range(b+1):
+c=a[n:]+a[:n]
+return c
 print("After circulating the values are:",circulate())    
 ```
 Developed by : Yuvarani T
